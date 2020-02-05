@@ -23,4 +23,4 @@ output = json" > $HOME/.aws/config
 echo "[default]
 aws_access_key_id = fakeMyKeyId
 aws_secret_access_key = fakeSecretAccessKey
-" >> $HOME/.aws/credentials
+" > $HOME/.aws/credentials
