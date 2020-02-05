@@ -14,4 +14,4 @@ $ ./install.sh
 $ dynamodb
 ```
 
-Test if its successfully installed using ``$ python test.py``
+Test if its successfully installed using ``$ python dynamo_test.py``
