@@ -5,7 +5,7 @@ Take backup of your credentials if you have configured already.
 
 ```sh
 $ git clone https://github.com/sanket143/iscripts
-$ cd iscripts
+$ cd iscripts/dynamodb
 $ ./install.sh
 ```
 
