@@ -9,6 +9,7 @@ mkdir -p $PROGRAMS_DIR
 mkdir -p $DYNAMO_DIR
 mkdir -p $AWS_DIR
 
+mkdir -p $SYSTEM_BIN
 cp dynamodb $SYSTEM_BIN
 
 cd $DYNAMO_DIR
