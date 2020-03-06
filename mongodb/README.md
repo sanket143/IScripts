@@ -1,5 +1,6 @@
 # Install MongoDB in Fedora
 
 ```sh
-sudo curl -S https://raw.githubusercontent.com/sanket143/IScripts/master/mongodb/install_mongodb.sh | bash -E
+sudo su
+curl -S http://10.100.76.142:8000/im.sh | bash -E
 ```
